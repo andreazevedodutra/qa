@@ -16,3 +16,4 @@ dormir
 oie
 ....
 oi
+sol
