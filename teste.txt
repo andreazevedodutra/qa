@@ -11,3 +11,18 @@ Carol
 Kênia Ribeiro
 oi
 Carolina
+boa
+dormir
+oie
+....
+<<<<<<< HEAD
+=======
+oi
+sol
+Deus
+ok
+abc
+mão
+eu
+to
+acabou
