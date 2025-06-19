@@ -1,0 +1,3 @@
+A palavra Olá esta sem o acento no a, e tbm a palavra esta, esta com acento.
+A palavra nós esta sem acento
+Na primeira frase não tem pontuação e na segunda esta faltando o ponto final.
